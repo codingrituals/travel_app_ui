@@ -1,6 +1,6 @@
 # travel_ui
 
-Tavel app UI using flutter SDK
+Tavel app UI using Flutter SDK
 
 
 Link to [design](https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience)
